@@ -4,7 +4,7 @@ permalink: /docs/
 ---
 
 
-# Installation
+# 安装
 
 ## Windows
 
@@ -26,7 +26,7 @@ Compile Grabber by following the instructions on the [Compilation]({{ site.baseu
 ### Linux Configuration
 After installation you will need to copy the example configuration files from `$INSTALLATIONPREFIX/Grabber/example/` to your local Grabber directory, usually `~/.Grabber/`. Grabber will not run without these files.
 
-# Usage
+# 使用
 
 ## First launch
 
