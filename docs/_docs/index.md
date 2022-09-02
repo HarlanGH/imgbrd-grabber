@@ -8,9 +8,9 @@ permalink: /docs/
 
 ## Windows
 
-1. 下载最新版本 [here](https://github.com/Bionus/imgbrd-grabber/releases/latest).
-2. 根据说明安装程序. 默认程序会安装到 "C:/Program Files/Grabber" (你的所有设置都会放在"%USERPROFILE%/AppData/Local/Bionus/Grabber").
-3. 如果在安装结束时没有选中“Start Grabber”，请转到安装文件夹，然后启动“Grabber.exe”(或者使用安装过程中在桌面上创建的快捷方式).
+1. 下载最新版本 [here](https://github.com/Bionus/imgbrd-grabber/releases/latest)。
+2. 根据说明安装程序。默认程序会安装到 "C:/Program Files/Grabber" (你的所有设置都会放在"%USERPROFILE%/AppData/Local/Bionus/Grabber")。
+3. 如果在安装结束时没有选中“Start Grabber”，请转到安装文件夹，然后启动“Grabber.exe”(或者使用安装过程中在桌面上创建的快捷方式)。
 
 ## Arch Linux
 For Arch Linux users, there are packages on the AUR
@@ -31,17 +31,17 @@ After installation you will need to copy the example configuration files from `$
 ## 第一次使用
 
 When you first start the program, you should be welcomed with this window:
-当您第一次启动该程序时，你将会看到这个界面:
+当你第一次启动该程序时，你将会看到这个界面：
 
 ![startup window](img/firstlaunch.png)
 
 There are four fields to fill:
-有四个字段需要填写:
+这里有四个字段需要填写:
 
 * Language: 界面语言
 * Source: 下载来源
 * Folder: 存储路径
-* Filename: Grabber最强大的功能就是文件名格式化! 查看细节 [Filename]({{ site.baseurl }}{% link _docs/filename.md %}) . 默认的 `%md5%.%ext%` 是个不错的选择.
+* Filename: Grabber最强大的功能就是文件名格式化！查看细节 ![Filename]({{ site.baseurl }}{% link _docs/filename.md %}) 。默认的 `%md5%.%ext%` 是个不错的选择。
 
 Once finished, you can press the "Ok" button.
 
