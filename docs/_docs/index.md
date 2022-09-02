@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: 快速入门
 permalink: /docs/
 ---
 
@@ -8,9 +8,9 @@ permalink: /docs/
 
 ## Windows
 
-1. Download the latest Windows installer [here](https://github.com/Bionus/imgbrd-grabber/releases/latest).
-2. Launch the installer, then follow the instructions. By default, the program will be installed to "C:/Program Files/Grabber" (note that all your settings will be stored in "%USERPROFILE%/AppData/Local/Bionus/Grabber").
-3. If you haven't left the "start Grabber" checked at the end of the installation, go to the installation folder, then launch "Grabber.exe" (or use the shortcut created on the desktop during the installation).
+1. 下载最新版本 [here](https://github.com/Bionus/imgbrd-grabber/releases/latest)。
+2. 根据说明安装程序。 默认程序会安装到 "C:/Program Files/Grabber" (你的所有设置都会放在"%USERPROFILE%/AppData/Local/Bionus/Grabber")。
+3. 如果在安装结束时没有选中“Start Grabber”，请转到安装文件夹，然后启动“Grabber.exe”(或者使用安装过程中在桌面上创建的快捷方式)。
 
 ## Arch Linux
 For Arch Linux users, there are packages on the AUR
