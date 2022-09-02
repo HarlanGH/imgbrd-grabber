@@ -41,7 +41,7 @@ There are four fields to fill:
 * Language: 界面语言
 * Source: 下载来源
 * Folder: 存储路径
-* Filename: Grabber最强大的功能就是文件名格式化！查看细节 ![Filename]({{ site.baseurl }}{% link _docs/filename.md %}) 。默认的 `%md5%.%ext%` 是个不错的选择。
+* Filename: Grabber最强大的功能就是文件名格式化！查看细节 [Filename]({{ site.baseurl }}{% link _docs/filename.md %}) 。默认的 `%md5%.%ext%` 是个不错的选择。
 
 Once finished, you can press the "Ok" button.
 
