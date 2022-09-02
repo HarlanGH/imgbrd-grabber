@@ -28,18 +28,20 @@ After installation you will need to copy the example configuration files from `$
 
 # 使用
 
-## First launch
+## 第一次使用
 
 When you first start the program, you should be welcomed with this window:
+当您第一次启动该程序时，你将会看到这个界面:
 
 ![startup window](img/firstlaunch.png)
 
 There are four fields to fill:
+有四个字段需要填写:
 
-* Language: the interface language
-* Source: the source you want to try first, you can change it later, and even select more than one at a time
-* Folder: where you want to store your images
-* Filename: the biggest strentgh of Grabber is its filename formatting! See the [Filename]({{ site.baseurl }}{% link _docs/filename.md %}) documentation page for more details. The default value of `%md5%.%ext%` should be good at first.
+* Language: 界面语言
+* Source: 下载来源
+* Folder: 存储路径
+* Filename: Grabber最强大的功能就是文件名格式化! 查看细节 [Filename]({{ site.baseurl }}{% link _docs/filename.md %}) . 默认的 `%md5%.%ext%` 是个不错的选择.
 
 Once finished, you can press the "Ok" button.
 
