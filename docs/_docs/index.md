@@ -35,7 +35,7 @@ When you first start the program, you should be welcomed with this window:
 
 ![startup window](img/firstlaunch.png)
 
-There are four fields to fill:
+There are four fields to fill:  
 这里有四个字段需要填写:
 
 * Language: 界面语言
