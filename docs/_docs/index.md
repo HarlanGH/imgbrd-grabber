@@ -31,6 +31,7 @@ After installation you will need to copy the example configuration files from `$
 ## 第一次使用
 
 When you first start the program, you should be welcomed with this window:
+
 当你第一次启动该程序时，你将会看到这个界面：
 
 ![startup window](img/firstlaunch.png)
